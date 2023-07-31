@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">Data Customer</h3>
+<h3 align="center">Kalkulator PHP</h3>
 
 <div align="center">
 
