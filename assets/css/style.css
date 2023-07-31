@@ -1,0 +1,47 @@
+body,
+html {
+  height: 100%;
+  background-color: #99a98f;
+}
+
+.kalkulator-container {
+  padding: 50px 100px 10px 100px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #d6e8db;
+  border-radius: 10% 10%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Menambahkan box shadow */
+}
+
+.kalkulator-container h2 {
+  color: #333;
+}
+
+.kalkulator-container form {
+  margin-bottom: 20px;
+}
+
+.kalkulator-container button {
+  width: 100%;
+}
+
+.hasil {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f5f5f5;
+}
+
+.hasil p {
+  margin: 0;
+  font-size: 18px;
+  color: #555;
+  font-weight: bold;
+}
+
+.logo-img {
+  max-width: 200px; /* Atur lebar maksimum logo */
+  max-height: 200px; /* Atur tinggi maksimum logo */
+  margin-bottom: 0;
+}
